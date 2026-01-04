@@ -21,7 +21,7 @@ function LandingPage() {
   return (
     <div>
       <section className='banner'>
-        <Stack sx={{width:350,padding:10}}>
+        <Stack  sx={{width:350,padding:10}}>
           <h1>ENTER <br />THE ARENA</h1>
           <p style={{fontSize:15}}>Flip, match, and celebrate every win.A game that’s easy to start but hard to stop playing.</p>
           <Link to={"/main"}>

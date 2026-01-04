@@ -38,7 +38,7 @@ function Header() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            News
+            Memory Master
           </Typography>
           <Button onClick={about} color="inherit">About Us</Button>
         </Toolbar>
